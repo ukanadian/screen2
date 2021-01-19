@@ -113,7 +113,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/wxz1nNi237g", name: "Do you know the way to san jose - Walter Denny Vaughan"}
+	{ogg: "Do-You-Know-the-Way-to-San-Jose.ogg", name: "Denny Vaughan - Do You Know the Way to San Jose?"},
+		{ogg: "Ainda-Mais-Lindo.ogg", name: "Walter Wanderley - Ainda Mais Lindo"},
+		{ogg: "Green-Peppers.ogg", name: "Herp Alberts and The Tijuana Brass - Green Peppers"}
 ];
 
 // Random music order?
